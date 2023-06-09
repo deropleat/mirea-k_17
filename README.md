@@ -216,3 +216,5 @@ PC condition turned off
 3D printer tact: 17; temp: 190; status: 1; print product: 0; queue products: 0; PC:
 Turn off the system
 ```
+---
+### Автор - https://vk.com/prosto_garlk
