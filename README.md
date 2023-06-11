@@ -218,3 +218,4 @@ Turn off the system
 ```
 ---
 ### Автор - https://vk.com/prosto_garlk
+   + Прямой путь по ID: https://vk.com/id565031404
